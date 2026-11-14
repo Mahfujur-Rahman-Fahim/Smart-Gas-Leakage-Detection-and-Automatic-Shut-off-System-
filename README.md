@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="430" height="329" alt="3D Top View" src="https://github.com/user-attachments/assets/ede44cec-4ecd-4278-820d-075b558a012d" />
+  <img width="412" height="331" alt="3D Bottom View" src="https://github.com/user-attachments/assets/774d96f3-55d0-47e1-a4cd-1eb8723b1754" />
+</p>
+
 # 🚨 Smart Gas Leakage Detection & Automatic Shut-off System
 
 Smart Gas Leakage Detection System protects homes & industries by auto-closing main lines. Uses ESP32-C3 & sensor to detect leaks, trigger buzzers & drive solenoid valves via Omron G5Q-1 relays. Features custom LM2596/AMS1117 power circuits, USB Type-C & noise-free KiCad PCB. Under active dev 🛠️⚡
@@ -9,12 +14,12 @@ Smart Gas Leakage Detection System protects homes & industries by auto-closing m
 ### 🔍 3D Render Views
 | 3D Top-Front View | 3D Bottom/Routing View |
 | :---: | :---: |
-| <img src="https://drive.google.com/file/d/1CMMDwhXObLvtuzeNLT6KKFMU2CrdgBzN/view?usp=sharing" width="400"/> | <img src="https://drive.google.com/file/d/1BZcJMsVJAuz38v_FGzoavxzdfUO2AJuK/view?usp=sharing" width="400"/> |
+| <img width="430" height="329" src="https://github.com/user-attachments/assets/ede44cec-4ecd-4278-820d-075b558a012d" /> | <img width="412" height="331" src="https://github.com/user-attachments/assets/774d96f3-55d0-47e1-a4cd-1eb8723b1754" /> |
 
 ### 🛠️ Hardware Schematics & PCB Design
 | Schematic Capture (KiCad 9) | 2-Layer PCB Layout & Copper Traces |
 | :---: | :---: |
-| <img src="https://drive.google.com/file/d/1o2VJjTl_sBDTeEN1cD7YdBRdbGo9_HUL/view?usp=sharing" width="400"/> | <img src="https://drive.google.com/file/d/1KfplvcyfxeefTv-iGW-IMkOfqUouJPJS/view?usp=sharing" width="400"/> |
+| <img width="530" height="371" src="https://github.com/user-attachments/assets/722d7da0-8805-4441-a925-b079ec907ff3" /> | <img width="425" height="348" src="https://github.com/user-attachments/assets/738c5e15-3711-4b65-9eaa-c6d4358c11bc" /> |
 
 ---
 
