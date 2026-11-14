@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="430" height="329" alt="3D Top View" src="https://github.com/user-attachments/assets/ede44cec-4ecd-4278-820d-075b558a012d" />
-  <img width="412" height="331" alt="3D Bottom View" src="https://github.com/user-attachments/assets/774d96f3-55d0-47e1-a4cd-1eb8723b1754" />
-</p>
-
 # 🚨 Smart Gas Leakage Detection & Automatic Shut-off System
 
 Smart Gas Leakage Detection System protects homes & industries by auto-closing main lines. Uses ESP32-C3 & sensor to detect leaks, trigger buzzers & drive solenoid valves via Omron G5Q-1 relays. Features custom LM2596/AMS1117 power circuits, USB Type-C & noise-free KiCad PCB. Under active dev 🛠️⚡
